@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[ViewController player2StatsButton:]:ViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController prepareForSegue:sender:]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "playerDetailVC">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PlayerDetailViewController viewDidLoad]:PlayerDetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.player">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController player1StatsButton:]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.game.statPlayer">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
